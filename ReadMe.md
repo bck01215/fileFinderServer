@@ -2,9 +2,12 @@
 
 ## What it does?
 
-Finds all files in provided path (including sub-directories and their files) and displays them in a gui
+Finds all files in provided path (including sub-directories and their files) and displays them in a web gui
+
+![Peek 2022-08-26 09-21](https://user-images.githubusercontent.com/77836661/186913315-8d6c688e-718d-4037-92f4-a7242514814b.gif)
 
 ## How to use it?
+
 
 ### Requirements
 
