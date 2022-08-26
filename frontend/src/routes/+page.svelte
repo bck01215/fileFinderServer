@@ -133,6 +133,9 @@
 {/if}
 
 <style>
+	.results li {
+		list-style-type: none;
+	}
 	.results input.path {
 		width: 75%;
 		padding: 12px 20px;

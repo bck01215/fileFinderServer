@@ -7,7 +7,7 @@
 		<a rel="external" class:active={$page.url.pathname === '/'} href="/">Home</a>
 	</li>
 	<li>
-		<a rel="external" class:active={$page.url.pathname === '/help'} href="/help">Help</a>
+		<a rel="external" class:active={$page.url.pathname === '/help/'} href="/help/">Help</a>
 	</li>
 </ul>
 
